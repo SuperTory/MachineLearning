@@ -1,0 +1,3 @@
+train.zip是训练集源数据，test.zip是测试集源数据
+train_segment.txt是切分好的句子词组文件
+train_list.txt是分类好的词组文件
